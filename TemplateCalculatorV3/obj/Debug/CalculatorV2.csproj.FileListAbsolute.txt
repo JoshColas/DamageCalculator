@@ -1,0 +1,12 @@
+C:\Users\jcolas\Documents\Visual Studio 2013\Projects\RogueTraderDamageCalculator\TemplateCalculatorV3\bin\Debug\TemplateCalculatorV3.exe.config
+C:\Users\jcolas\Documents\Visual Studio 2013\Projects\RogueTraderDamageCalculator\TemplateCalculatorV3\bin\Debug\TemplateCalculatorV3.exe
+C:\Users\jcolas\Documents\Visual Studio 2013\Projects\RogueTraderDamageCalculator\TemplateCalculatorV3\bin\Debug\TemplateCalculatorV3.pdb
+C:\Users\jcolas\Documents\Visual Studio 2013\Projects\RogueTraderDamageCalculator\TemplateCalculatorV3\obj\Debug\CalculatorV2.csprojResolveAssemblyReference.cache
+C:\Users\jcolas\Documents\Visual Studio 2013\Projects\RogueTraderDamageCalculator\TemplateCalculatorV3\obj\Debug\TemplateCalculatorV3.exe
+C:\Users\jcolas\Documents\Visual Studio 2013\Projects\RogueTraderDamageCalculator\TemplateCalculatorV3\obj\Debug\TemplateCalculatorV3.pdb
+C:\Users\jcolas\Documents\Visual Studio 2013\Projects\RogueTraderDamageCalculatorOLD\TemplateCalculatorV3\bin\Debug\TemplateCalculatorV3.exe.config
+C:\Users\jcolas\Documents\Visual Studio 2013\Projects\RogueTraderDamageCalculatorOLD\TemplateCalculatorV3\obj\Debug\TemplateCalculatorV3.exe
+C:\Users\jcolas\Documents\Visual Studio 2013\Projects\RogueTraderDamageCalculatorOLD\TemplateCalculatorV3\obj\Debug\TemplateCalculatorV3.pdb
+C:\Users\jcolas\Documents\Visual Studio 2013\Projects\RogueTraderDamageCalculatorOLD\TemplateCalculatorV3\obj\Debug\CalculatorV2.csprojResolveAssemblyReference.cache
+C:\Users\jcolas\Documents\Visual Studio 2013\Projects\RogueTraderDamageCalculatorOLD\TemplateCalculatorV3\bin\Debug\TemplateCalculatorV3.exe
+C:\Users\jcolas\Documents\Visual Studio 2013\Projects\RogueTraderDamageCalculatorOLD\TemplateCalculatorV3\bin\Debug\TemplateCalculatorV3.pdb
