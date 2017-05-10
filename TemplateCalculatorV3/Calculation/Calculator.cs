@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Calculator
 {
-    public class Calculator : CalculatorBase
+    public class Calculator : CalculatorBase  // Calculator is constructed with a Dictionary that it uses to set its field values, which are then used to calculate damage.
     {
         public Calculator(Dictionary<string, uint> values)
         {
@@ -17,12 +17,12 @@ namespace Calculator
 
         public void CalculateDamage()
         {
-            var targetsTotalDefense = armor + toughness;
-            if (penetration >= targetsTotalDefense)
-            {
+            var targetsTotalDefense = armor + toughness;                      // Find the sum of the target's Armor and Toughness
+            if (penetration >= targetsTotalDefense)                           // If the attack's Penetration value exceed this number
+            {                                                                 // Reduce the target's total defense to zero
                 targetsTotalDefense = 0;
             }
-            else
+            else                                                             // Otherwise reduce the targets total defense by the attack's penetration value
             {
                 targetsTotalDefense = targetsTotalDefense - penetration;
             }
