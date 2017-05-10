@@ -20,7 +20,7 @@
         {
             foreach (Flag flag in thisAttack.flags)
             {
-                if (flag._flagName.Contains(thisStat._statName) && flag._trueOrFalse == false)
+                if (flag._name.Contains(thisStat._name) && flag._ignoresStat == false)
                 {
                     thisTarget.stats.Add(thisStat);
                 }

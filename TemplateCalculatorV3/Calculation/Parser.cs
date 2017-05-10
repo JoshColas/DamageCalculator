@@ -17,7 +17,7 @@ namespace Calculator
         {
             foreach (var entry in thisEntity.stats)  
             {
-                calculationValues.Add(entry._statName, entry._value);
+                calculationValues.Add(entry._name, entry._value);
             }
         }
     }

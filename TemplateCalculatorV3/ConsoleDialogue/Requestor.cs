@@ -17,7 +17,7 @@ namespace Calculator
             {
                 Console.Write(flag._questionForUser);                                              //ask the user this flag's question
                 string userResponse = Console.ReadLine();                                          //read the user's response
-                flag._trueOrFalse = BoolValidator.ValidateBool(userResponse, flag._trueOrFalse);   //validate response and set the flag T/F accordingly
+                flag._ignoresStat = BoolValidator.ValidateBool(userResponse, flag._ignoresStat);   //validate response and set the flag T/F accordingly
             }
         }
 
